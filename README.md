@@ -4,5 +4,5 @@ https://paratranz.cn/projects/10973/files
 
 # Download Mod
 
-[releases](releases)
+[releases](https://github.com/ZzzzzzzSkyward/LegendOfMortalEnglish/releases)
 
